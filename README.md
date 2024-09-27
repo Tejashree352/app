@@ -1,4 +1,4 @@
-# App Landing Page 🛒
+# App Landing Page 
 
 A sleek and modern landing page for an App  built with **React.js**, featuring dark/light mode and customizable color themes for a personalized user experience.
 
